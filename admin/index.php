@@ -1,0 +1,1 @@
+<?php header('Location: ../www/index.php/router/login');
